@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Storage\Work\cit195\assignment10\usingAsyncAndAwait\usingAsyncAndAwait\bin\Debug\net6.0\usingAsyncAndAwait.exe
+C:\Users\user\Desktop\Storage\Work\cit195\assignment10\usingAsyncAndAwait\usingAsyncAndAwait\bin\Debug\net6.0\usingAsyncAndAwait.deps.json
+C:\Users\user\Desktop\Storage\Work\cit195\assignment10\usingAsyncAndAwait\usingAsyncAndAwait\bin\Debug\net6.0\usingAsyncAndAwait.runtimeconfig.json
+C:\Users\user\Desktop\Storage\Work\cit195\assignment10\usingAsyncAndAwait\usingAsyncAndAwait\bin\Debug\net6.0\usingAsyncAndAwait.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment10\usingAsyncAndAwait\usingAsyncAndAwait\bin\Debug\net6.0\usingAsyncAndAwait.pdb
+C:\Users\user\Desktop\Storage\Work\cit195\assignment10\usingAsyncAndAwait\usingAsyncAndAwait\obj\Debug\net6.0\usingAsyncAndAwait.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment10\usingAsyncAndAwait\usingAsyncAndAwait\obj\Debug\net6.0\usingAsyncAndAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Storage\Work\cit195\assignment10\usingAsyncAndAwait\usingAsyncAndAwait\obj\Debug\net6.0\usingAsyncAndAwait.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment10\usingAsyncAndAwait\usingAsyncAndAwait\obj\Debug\net6.0\usingAsyncAndAwait.AssemblyInfo.cs
+C:\Users\user\Desktop\Storage\Work\cit195\assignment10\usingAsyncAndAwait\usingAsyncAndAwait\obj\Debug\net6.0\usingAsyncAndAwait.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment10\usingAsyncAndAwait\usingAsyncAndAwait\obj\Debug\net6.0\usingAsyncAndAwait.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment10\usingAsyncAndAwait\usingAsyncAndAwait\obj\Debug\net6.0\refint\usingAsyncAndAwait.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment10\usingAsyncAndAwait\usingAsyncAndAwait\obj\Debug\net6.0\usingAsyncAndAwait.pdb
+C:\Users\user\Desktop\Storage\Work\cit195\assignment10\usingAsyncAndAwait\usingAsyncAndAwait\obj\Debug\net6.0\usingAsyncAndAwait.genruntimeconfig.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment10\usingAsyncAndAwait\usingAsyncAndAwait\obj\Debug\net6.0\ref\usingAsyncAndAwait.dll
